@@ -9,8 +9,8 @@
 <body>
     <h1>Probando PHP</h1>
     <?php
-        $elnumero = 10;
-        if ($elnumero > 5) {
+        $my_entero = 10;
+        if ($my_entero > 5) {
             echo '<h1>Hola</h1>';
         }
     ?>
